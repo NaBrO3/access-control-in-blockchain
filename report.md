@@ -233,17 +233,3 @@ access key和control key均可采取秘密共享的方案（可根据场景而�
 
 
 
-
-
-
-Exin：基于 Shamir’s Secret Sharing Scheme 的多签工具，GitHub 地址：https://github.com/ExinOne/secret-sharing
-
-Oversharing解决撤销权限仍能访问的问题  file:///C:/Users/syy/Desktop/access-control-based-on-blockchain/hadavi2015-Access%20control%20aware%20data%20retrieval%20for%20secret%20sharing%20based%20database%20outsourcing.pdf
-
-
-旧数据泄露
-
-
-
-https://ieeexplore.ieee.org/document/1628485
-http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf
