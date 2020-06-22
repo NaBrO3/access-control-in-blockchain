@@ -73,7 +73,7 @@ raft:  https://www.geekmeta.com/article/1237586.html
 
 ![](./img/2.jpg)
 
-<div align=center><img width="380" height="200" src="./img/2.jpg"/></div>
+<div align=center><img src="./img/2.jpg"/></div>
 
 本质还是隐私数据授权节点隔离存放，访问时需要检查权限，依旧依赖于可信的中心化节点。
 
