@@ -71,7 +71,7 @@ raft:  https://www.geekmeta.com/article/1237586.html
 
 私有数据的数据库和通道中的账本是分开存储的，每个私有数据集都对应一个独立的存储。
 
-![](./img/2.jpg)
+![](./img/2.png)
 
 
 
