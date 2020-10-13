@@ -64,6 +64,9 @@ requester请求数据时，data server会查询链上数据以确定其是否有
 https://hyperledger-fabric.readthedocs.io/zh_CN/release-1.4/glossary.html#anchor-peer
 
 raft:  https://www.geekmeta.com/article/1237586.html
+问题1：排序服务使用RAFT共识，RAFT的前提是节点诚实可信，可若结点都诚实可信了，构建区块链意义何在
+问题2：同一区块中若有多笔关联交易，则第一笔成功，其余均失败
+（参考file:///C:/Users/syy/Documents/temp/NewSpiralWhitePaper.pdf）
 
 有Channel的概念，通道中的数据与网络的其他部分(包括其他通道)完全隔离，一个个通道类似于一个个子链。
 
